@@ -5,10 +5,10 @@ public class Main {
     public static void main(String[] args) {
 
       B obj=new B();
-      //obj.meth();
+      //System.out.println(obj.meth());
 
         //after performing 4th step
-        obj.meth();
+        System.out.println(obj.meth());
 
     }
   
